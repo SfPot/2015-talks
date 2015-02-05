@@ -4,9 +4,9 @@
 
 - [Behind the Scenes of Maintaining an Open Source Project](#behind-the-scenes-of-maintaining-an-open-source-project)
 - [Comment entretenir un vieux cyborg à composants (Symfony) ?](#comment-entretenir-un-vieux-cyborg-à-composants-symfony--french) _<sup>(french)</sup>_
-- [Docker, c'est le bonheur](#docker-c-est-le-bonheur--french) _<sup>(french)</sup>_
+- [Docker, c'est le bonheur](#docker-cest-le-bonheur-french) _<sup>(french)</sup>_
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
-- [La sémantique c'est magique](#la-sémantique-c-est-magique--french) _<sup>(french)</sup>_
+- [La sémantique c'est magique](#la-sémantique-cest-magique-french) _<sup>(french)</sup>_
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 
 ---
@@ -15,7 +15,7 @@
 
 <dl>
   <dt>Description</dt>
-  <dd>Web de données avec Symfony où seront évoqués les APIs REST, l’hypermedia, Schema.org, [PHP Schema](http://php-schema.dunglas.com/) et [HydraBundle](https://github.com/lanthaler/HydraBundle).
+  <dd>Web de données avec Symfony où seront évoqués les APIs REST, l’hypermedia, Schema.org, <a href="http://php-schema.dunglas.com">PHP Schema</a> et <a href="https://github.com/lanthaler/HydraBundle">HydraBundle</a>.
   </dd>
 </dl>
 
