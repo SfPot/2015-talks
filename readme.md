@@ -3,7 +3,7 @@
 ### Summary
 
 - [Behind the Scenes of Maintaining an Open Source Project](#behind-the-scenes-of-maintaining-an-open-source-project)
-- [Comment entretenir un vieux cyborg à composants (Symfony) ?](#) _<sup>(french)</sup>_
+- [Comment entretenir un vieux cyborg à composants (Symfony) ?](#comment-entretenir-un-vieux-cyborg-à-composants-symfony--french) _<sup>(french)</sup>_
 
 ---
 
