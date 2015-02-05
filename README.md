@@ -4,8 +4,38 @@
 
 - [Behind the Scenes of Maintaining an Open Source Project](#behind-the-scenes-of-maintaining-an-open-source-project)
 - [Comment entretenir un vieux cyborg à composants (Symfony) ?](#comment-entretenir-un-vieux-cyborg-à-composants-symfony--french) _<sup>(french)</sup>_
+- [Docker, c'est le bonheur](#docker-c-est-le-bonheur--french) _<sup>(french)</sup>_
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
+- [La sémantique c'est magique](#la-sémantique-c-est-magique--french) _<sup>(french)</sup>_
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
+
+---
+
+## La sémantique c'est magique _<sup>(french)</sup>_
+
+<dl>
+  <dt>Description</dt>
+  <dd>Web de données avec Symfony où seront évoqués les APIs REST, l’hypermedia, Schema.org, [PHP Schema](http://php-schema.dunglas.com/) et [HydraBundle](https://github.com/lanthaler/HydraBundle).
+  </dd>
+</dl>
+
+[Slides](http://les-tilleuls.coop/slides/dunglas/slides-sfPot-2015-01-15/)  
+~~Video~~
+
+By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
+![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
+![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)
+
+## Docker, c'est le bonheur _<sup>(french)</sup>_
+
+[Slides](http://slideshare.net/alexandresalome/docker-cest-bonheur)  
+~~Video~~
+
+By [Alexandre Salomé](https://connect.sensiolabs.com/profile/alexandresalome)  
+![github](icon/github.png) [@alexandresalome](https://github.com/alexandresalome)  
+![twitter](icon/twitter.png) [@alexandresalome](https://twitter.com/alexandresalome)
+
+![meetup](icon/location.png) [Lille, France](http://les-tilleuls.coop/save-the-date-nouveau-sfpot/) - 15/01/2015
 
 ---
 
