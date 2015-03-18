@@ -119,3 +119,25 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
 ![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/221075395/) - 17/03/2015
+
+
+---
+
+## HHVM et PHP-NG
+
+~~Slides~~  
+~~Video~~
+
+By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)  
+![twitter](icon/twitter.png) [@ntilou](https://twitter.com/ntilou)
+
+## RabbitMQ et Symfony
+
+~~Slides~~  
+~~Video~~
+
+By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)  
+![github](icon/github.png) [@vincentchalamon](https://github.com/vincentchalamon)  
+![twitter](icon/twitter.png) [@vincentchalamon](https://twitter.com/vincentchalamon)
+
+![meetup](icon/location.png) Lille, France - 30/04/2015
