@@ -5,8 +5,10 @@
 - [Behind the Scenes of Maintaining an Open Source Project](#behind-the-scenes-of-maintaining-an-open-source-project)
 - [Comment entretenir un vieux cyborg à composants (Symfony) ?](#comment-entretenir-un-vieux-cyborg-à-composants-symfony--french) _<sup>(french)</sup>_
 - [Docker, c'est le bonheur](#docker-cest-le-bonheur-french) _<sup>(french)</sup>_
+- [FriendlyContext & tips Behat 3](#) _<sup>(french)</sup>_
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
 - [La sémantique c'est magique](#la-sémantique-cest-magique-french) _<sup>(french)</sup>_
+- [Micro services et leur intégration chez BlaBlaCar](#)
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 
 ---
@@ -94,3 +96,26 @@ By [Thierry Marianne](https://connect.sensiolabs.com/profile/thierrymarianne)
 ![twitter](icon/twitter.png) [@thierrymarianne](https://twitter.com/thierrymarianne)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/219713499/) - 27/01/2015
+
+
+---
+
+## FriendlyContext & tips Behat 3 _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Maxime Veber](https://connect.sensiolabs.com/profile/nek-)  
+![github](icon/github.png) [@Nek-](https://github.com/Nek-)  
+![twitter](icon/twitter.png) [@nekdev](https://twitter.com/nekdev)
+
+## Micro services et leur intégration chez BlaBlaCar
+
+[Slides](https://speakerdeck.com/odolbeau/microservices-at-blablacar)  
+[Video](https://youtu.be/WNIj5gJGasA) _<sup>(french)</sup>_
+
+By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
+![github](icon/github.png) [@odolbeau](https://github.com/odolbeau)  
+![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
+
+![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/221075395/) - 17/03/2015
