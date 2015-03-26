@@ -102,7 +102,7 @@ By [Thierry Marianne](https://connect.sensiolabs.com/profile/thierrymarianne)
 
 ## FriendlyContext & tips Behat 3 _<sup>(french)</sup>_
 
-~~Slides~~  
+[Slides](http://friendlycontext.talks.nekland.fr/)  
 ~~Video~~
 
 By [Maxime Veber](https://connect.sensiolabs.com/profile/nek-)  
