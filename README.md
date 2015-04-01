@@ -121,9 +121,12 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/221075395/) - 17/03/2015
 
+---
+
 ## Mission Impossible: Symfony components in Drupal 7
 
-[Slides](https://speakerdeck.com/super_marek/mission-impossible-symfony-components-in-drupal-7) 
+[Slides](https://speakerdeck.com/super_marek/mission-impossible-symfony-components-in-drupal-7)  
+~~Video~~
 
 By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)  
 ![github](icon/github.png) [@mareg](https://github.com/mareg)  
