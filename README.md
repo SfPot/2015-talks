@@ -9,6 +9,7 @@
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
 - [La sémantique c'est magique](#la-sémantique-cest-magique-french) _<sup>(french)</sup>_
 - [Micro services et leur intégration chez BlaBlaCar](#micro-services-et-leur-intégration-chez-blablacar)
+- [Mission Impossible: Symfony components in Drupal 7](#mission-impossible-symfony-components-in-drupal-7)
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 
 ---
@@ -119,3 +120,13 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
 ![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/221075395/) - 17/03/2015
+
+## Mission Impossible: Symfony components in Drupal 7
+
+[Slides](https://speakerdeck.com/super_marek/mission-impossible-symfony-components-in-drupal-7) 
+
+By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)  
+![github](icon/github.png) [@mareg](https://github.com/mareg)  
+![twitter](icon/twitter.png) [@super_marek](https://twitter.com/super_marek)
+
+![meetup](icon/location.png) [London, United Kingdom](http://www.meetup.com/symfony/events/177552462/) - 18/03/2015
