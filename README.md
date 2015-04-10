@@ -131,7 +131,7 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
 By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)  
 ![twitter](icon/twitter.png) [@ntilou](https://twitter.com/ntilou)
 
-## RabbitMQ et Symfony
+## RabbitMQ dans Symfony
 
 ~~Slides~~  
 ~~Video~~
