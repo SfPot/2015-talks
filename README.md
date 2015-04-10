@@ -144,7 +144,7 @@ By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)
 By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)  
 ![twitter](icon/twitter.png) [@ntilou](https://twitter.com/ntilou)
 
-## RabbitMQ et Symfony
+## RabbitMQ dans Symfony
 
 ~~Slides~~  
 ~~Video~~
