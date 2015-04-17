@@ -153,4 +153,4 @@ By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)
 ![github](icon/github.png) [@vincentchalamon](https://github.com/vincentchalamon)  
 ![twitter](icon/twitter.png) [@vincentchalamon](https://twitter.com/vincentchalamon)
 
-![meetup](icon/location.png) Lille, France - 30/04/2015
+![meetup](icon/location.png) [Lille, France](http://www.meetup.com/afsy-sfpot/events/221894602/) - 30/04/2015
