@@ -151,6 +151,7 @@ By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)
 ~~Video~~
 
 By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)  
+![github](icon/github.png) [@ablin](https://github.com/ablin)  
 ![twitter](icon/twitter.png) [@ntilou](https://twitter.com/ntilou)
 
 ![meetup](icon/location.png) [Lille, France](http://www.meetup.com/afsy-sfpot/events/221894602/) - 30/04/2015
