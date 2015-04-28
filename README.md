@@ -136,15 +136,7 @@ By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)
 
 ---
 
-## HHVM et PHP-NG
-
-~~Slides~~  
-~~Video~~
-
-By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)  
-![twitter](icon/twitter.png) [@ntilou](https://twitter.com/ntilou)
-
-## RabbitMQ dans Symfony
+## Mise en place de RabbitMQ dans un projet en Symfony2
 
 ~~Slides~~  
 ~~Video~~
@@ -152,5 +144,13 @@ By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)
 By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)  
 ![github](icon/github.png) [@vincentchalamon](https://github.com/vincentchalamon)  
 ![twitter](icon/twitter.png) [@vincentchalamon](https://twitter.com/vincentchalamon)
+
+## Optimisation de Symfony avec HHVM
+
+~~Slides~~  
+~~Video~~
+
+By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)  
+![twitter](icon/twitter.png) [@ntilou](https://twitter.com/ntilou)
 
 ![meetup](icon/location.png) [Lille, France](http://www.meetup.com/afsy-sfpot/events/221894602/) - 30/04/2015
