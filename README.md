@@ -136,10 +136,11 @@ By [Marek Matulka](https://connect.sensiolabs.com/profile/megaloman)
 
 ---
 
-## Mise en place de RabbitMQ dans un projet en Symfony2
+## Mise en place de RabbitMQ dans un projet en Symfony2 _<sup>(french)</sup>_
 
-~~Slides~~  
-~~Video~~
+[Slides](http://slides.com/vincentchalamon/rabbitmq)  
+~~Video~~  
+[Blog post](http://blog.vincent-chalamon.fr/implementer-rabbitmq-dans-une-api-symfony-2/)
 
 By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)  
 ![github](icon/github.png) [@vincentchalamon](https://github.com/vincentchalamon)  
