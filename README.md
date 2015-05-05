@@ -156,3 +156,30 @@ By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)
 ![twitter](icon/twitter.png) [@ntilou](https://twitter.com/ntilou)
 
 ![meetup](icon/location.png) [Lille, France](http://www.meetup.com/afsy-sfpot/events/221894602/) - 30/04/2015
+
+
+---
+
+## Génération en 5 minutes d'un provisioning spécifique pour votre projet Symfony
+
+~~Slides~~  
+~~Video~~
+
+By [Simon Constans](https://connect.sensiolabs.com/profile/kosssi)  
+![github](icon/github.png) [@kosssi](https://github.com/kosssi)  
+![twitter](icon/twitter.png) [@kos_si](https://twitter.com/kos_si)
+
+And [Maxime Thoonsen](https://connect.sensiolabs.com/profile/maximet)  
+![github](icon/github.png) [@MaximeThoonsen](https://github.com/MaximeThoonsen)  
+![twitter](icon/twitter.png) [@maxthoon](https://twitter.com/maxthoon)
+
+## Comment Grapher et visualiser vos datas
+
+~~Slides~~  
+~~Video~~
+
+By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
+![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
+![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)
+
+![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/222301231/) - 19/05/2015
