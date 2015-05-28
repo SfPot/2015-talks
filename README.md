@@ -183,3 +183,25 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 ![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/222301231/) - 19/05/2015
+
+---
+
+## Symfony et Docker _<sup>(french)</sup>_
+
+[Slides](http://slides.com/cedvan/speed-up-web-dev-using-docker/)  
+~~Video~~
+
+By Cédric Vanet   
+![github](icon/github.png) [@cedvan](https://github.com/cedvan)  
+![twitter](icon/twitter.png) [@cedvanet](https://twitter.com/cedvanet)
+
+## Legacy to Symfony _<sup>(french)</sup>_
+
+[Slides](http://slides.com/abenassy/sfpot/)  
+~~Video~~
+
+By [Arnaud Benassy](https://connect.sensiolabs.com/profile/abenassy)  
+![github](icon/github.png) [@ArnaudBenassy](https://github.com/ArnaudBenassy)  
+![twitter](icon/twitter.png) [@abenassy](https://twitter.com/abenassy)
+
+![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/222502092/) - 27/05/2015
