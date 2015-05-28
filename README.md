@@ -8,8 +8,10 @@
 - [FriendlyContext & tips Behat 3](#friendlycontext--tips-behat-3-french) _<sup>(french)</sup>_
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
 - [La sémantique c'est magique](#la-sémantique-cest-magique-french) _<sup>(french)</sup>_
+- [Legacy to Symfony](#legacy-to-symfony-french) _<sup>(french)</sup>_
 - [Micro services et leur intégration chez BlaBlaCar](#micro-services-et-leur-intégration-chez-blablacar)
 - [Mission Impossible: Symfony components in Drupal 7](#mission-impossible-symfony-components-in-drupal-7)
+- [Symfony et Docker](#symfony-et-docker-french) _<sup>(french)</sup>_
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 
 ---
