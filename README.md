@@ -167,7 +167,7 @@ By [Anthony Blin](https://connect.sensiolabs.com/profile/ntilou)
 ## Génération en 5 minutes d'un provisioning spécifique pour votre projet Symfony _<sup>(french)</sup>_
 
 [Slides](http://slides.com/kosssi/fansible-devops-bundle/)  
-~~Video~~
+[Video](https://youtu.be/-mttAgix70U)
 
 By [Simon Constans](https://connect.sensiolabs.com/profile/kosssi)  
 ![github](icon/github.png) [@kosssi](https://github.com/kosssi)  
@@ -180,7 +180,7 @@ And [Maxime Thoonsen](https://connect.sensiolabs.com/profile/maximet)
 ## Comment Grapher et visualiser vos datas _<sup>(french)</sup>_
 
 [Slides](https://speakerdeck.com/lyrixx/comment-grapher-et-visualiser-vos-datas-at-phptourlyon-2014)  
-~~Video~~
+[Video](https://youtu.be/nIuea8-VTmU)
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
