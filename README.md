@@ -209,3 +209,25 @@ By [Arnaud Benassy](https://connect.sensiolabs.com/profile/abenassy)
 ![twitter](icon/twitter.png) [@abenassy](https://twitter.com/abenassy)
 
 ![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/222502092/) - 27/05/2015
+
+---
+
+## Une timeline avec Elasticsearch _<sup>(french)</sup>_
+
+[Slides](http://slides.com/matthieuauger/deck/)  
+~~Video~~
+
+By [Matthieu Auger](https://connect.sensiolabs.com/profile/matthieuauger)  
+![github](icon/github.png) [@matthieuauger](https://github.com/matthieuauger)  
+![twitter](icon/twitter.png) [@matthieuauger](https://twitter.com/matthieuauger)
+
+## Lost in Localization
+
+[Slides](http://slides.com/triii007/lost-in-localization/)  
+~~Video~~
+
+By [Tristan Roussel](https://connect.sensiolabs.com/profile/tristanr)  
+![github](icon/github.png) [@Triiistan](https://github.com/Triiistan)  
+![twitter](icon/twitter.png) [@roussel_tristan](https://twitter.com/roussel_tristan)
+
+![meetup](icon/location.png) [Paris, France](http://www.meetup.com/fr/afsy-sfpot/events/223087798/) - 17/06/2015
