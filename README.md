@@ -14,9 +14,11 @@
 - [Lost in Localization](#lost-in-localization)
 - [Micro services et leur intégration chez BlaBlaCar](#micro-services-et-leur-intégration-chez-blablacar)
 - [Mission Impossible: Symfony components in Drupal 7](#mission-impossible-symfony-components-in-drupal-7)
+- [PSR7 and Symfony](#psr7-and-symfony)
 - [Symfony et Docker](#symfony-et-docker-french) _<sup>(french)</sup>_
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 - [Une timeline avec Elasticsearch](#une-timeline-avec-elasticsearch-french) _<sup>(french)</sup>_
+- [Utiliser Symfony dans des environnements Heroku-like](#utiliser-symfony-dans-des-environnements-heroku-like)
 
 ---
 
