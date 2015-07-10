@@ -233,3 +233,25 @@ By [Tristan Roussel](https://connect.sensiolabs.com/profile/tristanr)
 ![twitter](icon/twitter.png) [@roussel_tristan](https://twitter.com/roussel_tristan)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/fr/afsy-sfpot/events/223087798/) - 17/06/2015
+
+---
+
+## PSR7 and Symfony
+
+[Slides](https://dunglas.fr/slides/symfony-psr-7/)  
+~~Video~~
+
+By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
+![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
+![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)
+
+## Utiliser Symfony dans des environnements Heroku-like
+
+~~Slides~~  
+~~Video~~
+
+By [Tristan Maindron](https://connect.sensiolabs.com/profile/tmaindron)  
+![github](icon/github.png) [@OwlyCode](https://github.com/OwlyCode)  
+![twitter](icon/twitter.png) [@OwlyCode](https://twitter.com/OwlyCode)
+
+![meetup](icon/location.png) [Lille, France](http://www.meetup.com/fr/afsy-sfpot/events/223475168/) - 09/07/2015
