@@ -247,9 +247,9 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
 ![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
 ![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)
 
-## Utiliser Symfony dans des environnements Heroku-like
+## Utiliser Symfony dans des environnements Heroku-like _<sup>(french)</sup>_
 
-~~Slides~~  
+[Slides](http://fr.slideshare.net/OwlyCode/sf-pot2)  
 ~~Video~~
 
 By [Tristan Maindron](https://connect.sensiolabs.com/profile/tmaindron)  
