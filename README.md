@@ -18,7 +18,7 @@
 - [Symfony et Docker](#symfony-et-docker-french) _<sup>(french)</sup>_
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 - [Une timeline avec Elasticsearch](#une-timeline-avec-elasticsearch-french) _<sup>(french)</sup>_
-- [Utiliser Symfony dans des environnements Heroku-like](#utiliser-symfony-dans-des-environnements-heroku-like)
+- [Utiliser Symfony dans des environnements Heroku-like](#utiliser-symfony-dans-des-environnements-heroku-like-french)  _<sup>(french)</sup>_
 
 ---
 
