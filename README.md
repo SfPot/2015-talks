@@ -9,10 +9,12 @@
 - [FriendlyContext & tips Behat 3](#friendlycontext--tips-behat-3-french) _<sup>(french)</sup>_
 - [Génération en 5 minutes d'un provisioning spécifique pour votre projet Symfony](#génération-en-5-minutes-dun-provisioning-spécifique-pour-votre-projet-symfony-french) _<sup>(french)</sup>_
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
+- [La sécurité avec Symfony](#la-sécurité-avec-symfony-french) _<sup>(french)</sup>_
 - [La sémantique c'est magique](#la-sémantique-cest-magique-french) _<sup>(french)</sup>_
 - [Legacy to Symfony](#legacy-to-symfony-french) _<sup>(french)</sup>_
 - [Lost in Localization](#lost-in-localization)
 - [Micro services et leur intégration chez BlaBlaCar](#micro-services-et-leur-intégration-chez-blablacar)
+- [Mise en place d'un cache objet avec Memcached](#mise-en-place-dun-cache-objet-avec-memcached-french) _<sup>(french)</sup>_
 - [Mission Impossible: Symfony components in Drupal 7](#mission-impossible-symfony-components-in-drupal-7)
 - [PSR7 and Symfony](#psr7-and-symfony)
 - [Symfony et Docker](#symfony-et-docker-french) _<sup>(french)</sup>_
@@ -269,7 +271,7 @@ By Cyril Souillard
 ![github](icon/github.png) [@nayluge](https://github.com/nayluge)  
 ![twitter](icon/twitter.png) [@cyrilsouillard](https://twitter.com/cyrilsouillard)
 
-## La sécurité avec Symfony
+## La sécurité avec Symfony _<sup>(french)</sup>_
 
 ~~Slides~~  
 ~~Video~~
