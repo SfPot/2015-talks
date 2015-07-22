@@ -257,3 +257,25 @@ By [Tristan Maindron](https://connect.sensiolabs.com/profile/tmaindron)
 ![twitter](icon/twitter.png) [@OwlyCode](https://twitter.com/OwlyCode)
 
 ![meetup](icon/location.png) [Lille, France](http://www.meetup.com/fr/afsy-sfpot/events/223475168/) - 09/07/2015
+
+---
+
+## Mise en place d'un cache objet avec Memcached
+
+[Slides](http://slides.com/cyrilsouillard/memcached-sf2/)  
+~~Video~~
+
+By Cyril Souillard  
+![github](icon/github.png) [@nayluge](https://github.com/nayluge)  
+![twitter](icon/twitter.png) [@cyrilsouillard](https://twitter.com/cyrilsouillard)
+
+## La sécurité avec Symfony
+
+~~Slides~~  
+~~Video~~
+
+By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
+![github](icon/github.png) [@saro0h](https://github.com/saro0h)  
+![twitter](icon/twitter.png) [@Saro0h](https://twitter.com/Saro0h)
+
+![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/223821674/) - 22/07/2015
