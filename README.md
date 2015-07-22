@@ -260,7 +260,7 @@ By [Tristan Maindron](https://connect.sensiolabs.com/profile/tmaindron)
 
 ---
 
-## Mise en place d'un cache objet avec Memcached
+## Mise en place d'un cache objet avec Memcached _<sup>(french)</sup>_
 
 [Slides](http://slides.com/cyrilsouillard/memcached-sf2/)  
 ~~Video~~
