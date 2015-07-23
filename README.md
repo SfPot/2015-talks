@@ -9,7 +9,7 @@
 - [FriendlyContext & tips Behat 3](#friendlycontext--tips-behat-3-french) _<sup>(french)</sup>_
 - [Génération en 5 minutes d'un provisioning spécifique pour votre projet Symfony](#génération-en-5-minutes-dun-provisioning-spécifique-pour-votre-projet-symfony-french) _<sup>(french)</sup>_
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
-- [La sécurité avec Symfony](#la-sécurité-avec-symfony) _<sup>(french)</sup>_
+- [La sécurité avec Symfony](#la-sécurité-avec-symfony)
 - [La sémantique c'est magique](#la-sémantique-cest-magique-french) _<sup>(french)</sup>_
 - [Legacy to Symfony](#legacy-to-symfony-french) _<sup>(french)</sup>_
 - [Lost in Localization](#lost-in-localization)
