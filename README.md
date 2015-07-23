@@ -273,7 +273,7 @@ By Cyril Souillard
 
 ## La sécurité avec Symfony _<sup>(french)</sup>_
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/securite-avec-symfony)
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
