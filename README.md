@@ -6,6 +6,7 @@
 - [Breaking boundaries with FastCGI](#breaking-boundaries-with-fastcgi)
 - [Comment entretenir un vieux cyborg à composants (Symfony) ?](#comment-entretenir-un-vieux-cyborg-à-composants-symfony--french) _<sup>(french)</sup>_
 - [Comment Grapher et visualiser vos datas](#comment-grapher-et-visualiser-vos-datas-french) _<sup>(french)</sup>_
+- [Comment profiler votre application PHP](#comment-profiler-votre-application-php-french) _<sup>(french)</sup>_
 - [Configuration organization tips](#configuration-organization-tips)
 - [Docker, c'est le bonheur](#docker-cest-le-bonheur-french) _<sup>(french)</sup>_
 - [FriendlyContext & tips Behat 3](#friendlycontext--tips-behat-3-french) _<sup>(french)</sup>_
@@ -18,8 +19,14 @@
 - [Micro services et leur intégration chez BlaBlaCar](#micro-services-et-leur-intégration-chez-blablacar)
 - [Mise en place d'un cache objet avec Memcached](#mise-en-place-dun-cache-objet-avec-memcached-french) _<sup>(french)</sup>_
 - [Mission Impossible: Symfony components in Drupal 7](#mission-impossible-symfony-components-in-drupal-7)
+- [Présentation de CMS Back Bee](#présentation-de-cms-back-bee-french) _<sup>(french)</sup>_
+- [Présentation de JoliNotif et php7-ckecker](#présentation-de-jolinotif-et-php7-ckecker-french) _<sup>(french)</sup>_
+- [Présentation de mon admin bundle](#présentation-de-mon-admin-bundle-french) _<sup>(french)</sup>_
+- [Présentation de swarrot, une lib permettant de créer des workers](#présentation-de-swarrot-une-lib-permettant-de-créer-des-workers-french) _<sup>(french)</sup>_
 - [PSR7 and Symfony](#psr7-and-symfony)
+- [Retour d'expérience des bundles utilisés chez M6Web : leurs avantages et leurs inconvénients](#retour-dexpérience-des-bundles-utilisés-chez-m6web--leurs-avantages-et-leurs-inconvénients-french) _<sup>(french)</sup>_
 - [Symfony et Docker](#symfony-et-docker-french) _<sup>(french)</sup>_
+- ["Symfony m'a tueR", passez du monolithe au micro-services](#symfony-ma-tuer-passez-du-monolithe-au-micro-services-french) _<sup>(french)</sup>_
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 - [Une timeline avec Elasticsearch](#une-timeline-avec-elasticsearch-french) _<sup>(french)</sup>_
 - [Utiliser Symfony dans des environnements Heroku-like](#utiliser-symfony-dans-des-environnements-heroku-like-french)  _<sup>(french)</sup>_
