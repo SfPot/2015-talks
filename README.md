@@ -281,3 +281,25 @@ By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)
 ![twitter](icon/twitter.png) [@Saro0h](https://twitter.com/Saro0h)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/223821674/) - 22/07/2015
+
+---
+
+## Breaking boundaries with FastCGI
+
+[Slides](http://andrewcarteruk.github.io/slides/breaking-boundaries-with-fastcgi-symfony/)  
+~~Video~~
+
+By [Andrew Carter](https://connect.sensiolabs.com/profile/andrewcarteruk)  
+![github](icon/github.png) [@andrewcarteruk](https://github.com/andrewcarteruk)  
+![twitter](icon/twitter.png) [@AndrewCarterUK](https://twitter.com/AndrewCarterUK)
+
+## Configuration organization tips
+
+[Slides](http://emanueleminotto.github.io/configuration-organization/)  
+~~Video~~
+
+By [Emanuele Minotto](https://connect.sensiolabs.com/profile/emanueleminotto)  
+![github](icon/github.png) [@EmanueleMinotto](https://github.com/EmanueleMinotto)  
+![twitter](icon/twitter.png) [@EmanueleMinotto](https://twitter.com/EmanueleMinotto)
+
+![meetup](icon/location.png) [London, United Kingdom](http://www.meetup.com/symfony/events/218497162/) - 10/09/2015
