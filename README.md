@@ -306,3 +306,78 @@ By [Emanuele Minotto](https://connect.sensiolabs.com/profile/emanueleminotto)
 
 Comment and rate talks on [joind.in](https://joind.in/event/view/4627)  
 ![meetup](icon/location.png) [London, United Kingdom](http://www.meetup.com/symfony/events/218497162/) - 10/09/2015   
+
+---
+
+## Présentation de CMS Back Bee _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Mickaël Andrieu](https://connect.sensiolabs.com/profile/mickaelandrieu)  
+![github](icon/github.png) [@mickaelandrieu](https://github.com/mickaelandrieu)  
+![twitter](icon/twitter.png) [@mickael_andrieu](https://twitter.com/mickael_andrieu)
+
+## Présentation de swarrot, une lib permettant de créer des workers _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
+![github](icon/github.png) [@odolbeau](https://github.com/odolbeau)  
+![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
+
+## Présentation de JoliNotif et php7-ckecker _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Loïck Piera](https://connect.sensiolabs.com/profile/pyrech)  
+![github](icon/github.png) [@pyrech](https://github.com/pyrech)  
+![twitter](icon/twitter.png) [@pyrech](https://twitter.com/pyrech)
+
+## Présentation de mon admin bundle _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Maxime Veber](https://connect.sensiolabs.com/profile/nek-)  
+![github](icon/github.png) [@Nek-](https://github.com/Nek-)  
+![twitter](icon/twitter.png) [@nekdev](https://twitter.com/nekdev)
+
+![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/225169496/) - 15/09/2015   
+
+---
+
+## Retour d'expérience des bundles utilisés chez M6Web : leurs avantages et leurs inconvénients _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Mikael Randy](https://connect.sensiolabs.com/profile/mikaelrandy)  
+![github](icon/github.png) [@mikaelrandy](https://github.com/mikaelrandy)  
+![twitter](icon/twitter.png) [@mikaelrandy](https://twitter.com/mikaelrandy)
+
+![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/225226846/) - 22/09/2015   
+
+---
+
+## "Symfony m'a tueR", passez du monolithe au micro-services _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
+![github](icon/github.png) [@odolbeau](https://github.com/odolbeau)  
+![twitter](icon/twitter.png) [@odolbeau](https://twitter.com/odolbeau)
+
+## Comment profiler votre application PHP _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
+![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
+![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)
+
+![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/225226846/) - 28/09/2015   
