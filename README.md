@@ -387,4 +387,4 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
 ![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)
 
-![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/225226846/) - 28/09/2015   
+![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/225200441/) - 28/09/2015   
