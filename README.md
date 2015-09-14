@@ -304,4 +304,5 @@ By [Emanuele Minotto](https://connect.sensiolabs.com/profile/emanueleminotto)
 ![github](icon/github.png) [@EmanueleMinotto](https://github.com/EmanueleMinotto)  
 ![twitter](icon/twitter.png) [@EmanueleMinotto](https://twitter.com/EmanueleMinotto)
 
-![meetup](icon/location.png) [London, United Kingdom](http://www.meetup.com/symfony/events/218497162/) - 10/09/2015
+Comment and rate talks on [joind.in](https://joind.in/event/view/4627)  
+![meetup](icon/location.png) [London, United Kingdom](http://www.meetup.com/symfony/events/218497162/) - 10/09/2015   
