@@ -19,7 +19,6 @@
 - [Micro services et leur intégration chez BlaBlaCar](#micro-services-et-leur-intégration-chez-blablacar)
 - [Mise en place d'un cache objet avec Memcached](#mise-en-place-dun-cache-objet-avec-memcached-french) _<sup>(french)</sup>_
 - [Mission Impossible: Symfony components in Drupal 7](#mission-impossible-symfony-components-in-drupal-7)
-- [Présentation de CMS Back Bee](#présentation-de-cms-back-bee-french) _<sup>(french)</sup>_
 - [Présentation de JoliNotif et php7-ckecker](#présentation-de-jolinotif-et-php7-ckecker-french) _<sup>(french)</sup>_
 - [Présentation de mon admin bundle](#présentation-de-mon-admin-bundle-french) _<sup>(french)</sup>_
 - [Présentation de swarrot, une lib permettant de créer des workers](#présentation-de-swarrot-une-lib-permettant-de-créer-des-workers-french) _<sup>(french)</sup>_
@@ -315,15 +314,6 @@ Comment and rate talks on [joind.in](https://joind.in/event/view/4627)
 ![meetup](icon/location.png) [London, United Kingdom](http://www.meetup.com/symfony/events/218497162/) - 10/09/2015   
 
 ---
-
-## Présentation de CMS Back Bee _<sup>(french)</sup>_
-
-~~Slides~~  
-~~Video~~
-
-By [Mickaël Andrieu](https://connect.sensiolabs.com/profile/mickaelandrieu)  
-![github](icon/github.png) [@mickaelandrieu](https://github.com/mickaelandrieu)  
-![twitter](icon/twitter.png) [@mickael_andrieu](https://twitter.com/mickael_andrieu)
 
 ## Présentation de swarrot, une lib permettant de créer des workers _<sup>(french)</sup>_
 
