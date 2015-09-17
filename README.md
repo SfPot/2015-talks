@@ -335,7 +335,9 @@ By [Loïck Piera](https://connect.sensiolabs.com/profile/pyrech)
 
 ## Présentation de mon admin bundle _<sup>(french)</sup>_
 
-~~Slides~~  
+[Slides](
+https://docs.google.com/presentation/d/1tr91gNxe-1npWRotopnCd9HkSo-9rKP1-659YjInP5I/edit?usp=sharing
+)  
 ~~Video~~
 
 By [Maxime Veber](https://connect.sensiolabs.com/profile/nek-)  
