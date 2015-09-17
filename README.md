@@ -326,7 +326,7 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
 
 ## Présentation de JoliNotif et php7-ckecker _<sup>(french)</sup>_
 
-~~Slides~~  
+[Slides](http://pyrech.github.io/sfpot-septembre-2015/)  
 ~~Video~~
 
 By [Loïck Piera](https://connect.sensiolabs.com/profile/pyrech)  
