@@ -363,7 +363,7 @@ By [Mikael Randy](https://connect.sensiolabs.com/profile/mikaelrandy)
 
 ## "Symfony m'a tueR", passez du monolithe au micro-services _<sup>(french)</sup>_
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/odolbeau/symfony2-killed-me)  
 ~~Video~~
 
 By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
