@@ -29,6 +29,7 @@
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 - [Une timeline avec Elasticsearch](#une-timeline-avec-elasticsearch-french) _<sup>(french)</sup>_
 - [Utiliser Symfony dans des environnements Heroku-like](#utiliser-symfony-dans-des-environnements-heroku-like-french)  _<sup>(french)</sup>_
+- [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
 
 ---
 
@@ -380,3 +381,14 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 ![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)
 
 ![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/225200441/) - 28/09/2015   
+
+## CQRS and Event Sourcing
+
+[Slides](https://moquet.net/talks/phptour-2015/)  
+~~Video~~
+
+By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)  
+![github](icon/github.png) [@MattKetmo](https://github.com/MattKetmo)  
+![twitter](icon/twitter.png) [@MattKetmo](https://twitter.com/MattKetmo)
+
+![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/226090219/) - 20/10/2015 
