@@ -9,6 +9,7 @@
 - [Comment profiler votre application PHP](#comment-profiler-votre-application-php-french) _<sup>(french)</sup>_
 - [Configuration organization tips](#configuration-organization-tips)
 - [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
+- [Développeur ce n'est pas seulement coder](#développeur-ce-nest-pas-seulement-coder-french) _<sup>(french)</sup>_
 - [Docker, c'est le bonheur](#docker-cest-le-bonheur-french) _<sup>(french)</sup>_
 - [FriendlyContext & tips Behat 3](#friendlycontext--tips-behat-3-french) _<sup>(french)</sup>_
 - [Génération en 5 minutes d'un provisioning spécifique pour votre projet Symfony](#génération-en-5-minutes-dun-provisioning-spécifique-pour-votre-projet-symfony-french) _<sup>(french)</sup>_
