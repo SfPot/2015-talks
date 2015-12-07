@@ -8,6 +8,7 @@
 - [Comment Grapher et visualiser vos datas](#comment-grapher-et-visualiser-vos-datas-french) _<sup>(french)</sup>_
 - [Comment profiler votre application PHP](#comment-profiler-votre-application-php-french) _<sup>(french)</sup>_
 - [Configuration organization tips](#configuration-organization-tips)
+- [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
 - [Docker, c'est le bonheur](#docker-cest-le-bonheur-french) _<sup>(french)</sup>_
 - [FriendlyContext & tips Behat 3](#friendlycontext--tips-behat-3-french) _<sup>(french)</sup>_
 - [Génération en 5 minutes d'un provisioning spécifique pour votre projet Symfony](#génération-en-5-minutes-dun-provisioning-spécifique-pour-votre-projet-symfony-french) _<sup>(french)</sup>_
@@ -29,7 +30,6 @@
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 - [Une timeline avec Elasticsearch](#une-timeline-avec-elasticsearch-french) _<sup>(french)</sup>_
 - [Utiliser Symfony dans des environnements Heroku-like](#utiliser-symfony-dans-des-environnements-heroku-like-french)  _<sup>(french)</sup>_
-- [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
 
 ---
 
@@ -382,6 +382,8 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 
 ![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/225200441/) - 28/09/2015   
 
+---
+
 ## CQRS and Event Sourcing
 
 [Slides](https://moquet.net/talks/phptour-2015/)  
@@ -390,5 +392,13 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)  
 ![github](icon/github.png) [@MattKetmo](https://github.com/MattKetmo)  
 ![twitter](icon/twitter.png) [@MattKetmo](https://twitter.com/MattKetmo)
+
+## Développeur ce n'est pas seulement coder _<sup>(french)</sup>_
+
+[Slides](https://docs.google.com/presentation/d/1cFGeDVC4ud696x2pTvJzrcNYQ8EO9GFrjlR68ELVF8Q/edit)  
+~~Video~~
+
+By [Rémy Luciani](https://connect.sensiolabs.com/profile/remyl)  
+![github](icon/github.png) [@Remy-Luciani](https://github.com/Remy-Luciani)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/226090219/) - 20/10/2015 
