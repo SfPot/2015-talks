@@ -403,3 +403,87 @@ By [Rémy Luciani](https://connect.sensiolabs.com/profile/remyl)
 ![github](icon/github.png) [@Remy-Luciani](https://github.com/Remy-Luciani)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/226090219/) - 20/10/2015 
+
+---
+
+## Symfony Serializer _<sup>(french)</sup>_
+
+[Slides](http://tom32i.github.io/talk-serializer/)  
+~~Video~~
+
+By [Thomas Jarrand](https://connect.sensiolabs.com/profile/Tom32i)  
+![github](icon/github.png) [@Tom32i](https://github.com/Tom32i)  
+![twitter](icon/twitter.png) [@Tom32i](https://twitter.com/Tom32i)
+
+![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/226038606/) - 20/10/2015 
+
+---
+
+## Bonnes pratiques de déploiement PHP en 2015 _<sup>(french)</sup>_
+
+<dl>
+  <dt>Description</dt>
+  <dd>Lorsque j'ai commencé à déployer du PHP, aux alentours de 2002, la mise en place de cache d'opcode, de reverse proxy pour assets statiques et de déploiement atomiques était encore rare et peu documentée. Le monde a évolué, PHP a beaucoup évolué et c'est l'occasion de faire le point sur les bonnes pratiques de déploiement PHP (en particulier sur une architecture cloud): - déploiement immutables - séparation code / données - cache opcode - séparation serveur HTTP / VM PHP - gestion des sessions - gestion des assets Le but de la présentation est de présenter (et de justifier, en les contextualisant) ces bonnes pratiques.</dd>
+</dl>
+
+[Slides](http://slideshare.net/quentinadam/php-deploy-2015-flavor-talk-from-php-tour-2015-luxembourg)  
+~~Video~~ / [from ForumPHP](https://www.youtube.com/watch?v=8O-IeLRgsCI)
+
+By Quentin Adam  
+![github](icon/github.png) [@waxzce](https://github.com/waxzce)  
+![twitter](icon/twitter.png) [@waxzce](https://twitter.com/waxzce)
+
+## Drop ACE, use voters
+
+[Slides](http://slides.com/marieminasyan/drop-ace-use-role-voters)  
+~~Video~~ / [from SymfonyCon](https://www.youtube.com/watch?v=e7HfW4TgnUY)
+
+By [Marie Minasyan](https://connect.sensiolabs.com/profile/marie.minassyan)  
+![github](icon/github.png) [@MarieMinasyan](https://github.com/MarieMinasyan)  
+![twitter](icon/twitter.png) [@marie_minasyan](https://twitter.com/marie_minasyan)
+
+![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/226162449/) - 29/10/2015 
+
+---
+
+## Domain Modeling avec un livecoding Behat/PhpSpec sur un fond de DDD _<sup>(french)</sup>_  
+
+~~Slides~~  
+~~Video~~
+
+By [Alexandre Balmes](https://connect.sensiolabs.com/profile/pocky)  
+![github](icon/github.png) [@pocky](https://github.com/pocky)  
+![twitter](icon/twitter.png) [@pockystar](https://twitter.com/pockystar)
+
+## CQRS et de l'Event Sourcing avec un retour d'expérience _<sup>(french)</sup>_
+
+~~Slides~~  
+~~Video~~
+
+By [Jean-Baptiste Nahan](https://connect.sensiolabs.com/profile/jbnahan)  
+![github](icon/github.png) [@macintoshplus](https://github.com/macintoshplus)  
+![twitter](icon/twitter.png) [@jbnahan69](https://twitter.com/jbnahan69)
+
+![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/226588995/) - 17/11/2015 
+
+---
+
+## How Symfony changed my life
+
+[Slides](http://www.slideshare.net/matthiasnoback/how-symfony-changed-my-life-sfpot-paris-19th-november-2015)  
+~~Video~~
+
+By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)  
+![github](icon/github.png) [@matthiasnoback](https://github.com/matthiasnoback)  
+![twitter](icon/twitter.png) [@matthiasnoback](https://twitter.com/matthiasnoback)
+
+## Orchestrer vos projets Symfony sans fausse notes _<sup>(french)</sup>_
+
+[Slides](http://slideshare.net/xgorse/orchestrez-vos-projets-symfony-sans-fausses-notes)  
+~~Video~~
+
+By [Xavier Gorse](https://connect.sensiolabs.com/profile/xgorse)  
+![github](icon/github.png) [@xgorse](https://github.com/xgorse)  
+![twitter](icon/twitter.png) [@xgorse](https://twitter.com/xgorse)
+
+![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/226790784/) - 19/11/2015 
