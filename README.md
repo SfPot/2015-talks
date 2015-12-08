@@ -3,16 +3,21 @@
 ### Summary
 
 - [Behind the Scenes of Maintaining an Open Source Project](#behind-the-scenes-of-maintaining-an-open-source-project)
+- [Bonnes pratiques de déploiement PHP en 2015](#bonnes-pratiques-de-déploiement-php-en-2015-french) _<sup>(french)</sup>_
 - [Breaking boundaries with FastCGI](#breaking-boundaries-with-fastcgi)
 - [Comment entretenir un vieux cyborg à composants (Symfony) ?](#comment-entretenir-un-vieux-cyborg-à-composants-symfony--french) _<sup>(french)</sup>_
 - [Comment Grapher et visualiser vos datas](#comment-grapher-et-visualiser-vos-datas-french) _<sup>(french)</sup>_
 - [Comment profiler votre application PHP](#comment-profiler-votre-application-php-french) _<sup>(french)</sup>_
 - [Configuration organization tips](#configuration-organization-tips)
 - [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
+- [CQRS et de l'Event Sourcing avec un retour d'expérience](#cqrs-et-de-levent-sourcing-avec-un-retour-dexpérience-french) _<sup>(french)</sup>_
 - [Développeur ce n'est pas seulement coder](#développeur-ce-nest-pas-seulement-coder-french) _<sup>(french)</sup>_
 - [Docker, c'est le bonheur](#docker-cest-le-bonheur-french) _<sup>(french)</sup>_
+- [Domain Modeling avec un livecoding Behat/PhpSpec sur un fond de DDD](#domain-modeling-avec-un-livecoding-behatphpspec-sur-un-fond-de-ddd-french) _<sup>(french)</sup>_  
+- [Drop ACE, use voters](#drop-ace-use-voters)
 - [FriendlyContext & tips Behat 3](#friendlycontext--tips-behat-3-french) _<sup>(french)</sup>_
 - [Génération en 5 minutes d'un provisioning spécifique pour votre projet Symfony](#génération-en-5-minutes-dun-provisioning-spécifique-pour-votre-projet-symfony-french) _<sup>(french)</sup>_
+- [How Symfony changed my life](#how-symfony-changed-my-life)
 - [How we build phpBB: The Next Generation](#how-we-build-phpbb-the-next-generation)
 - [La sécurité avec Symfony](#la-sécurité-avec-symfony)
 - [La sémantique c'est magique](#la-sémantique-cest-magique-french) _<sup>(french)</sup>_
@@ -21,6 +26,7 @@
 - [Micro services et leur intégration chez BlaBlaCar](#micro-services-et-leur-intégration-chez-blablacar)
 - [Mise en place d'un cache objet avec Memcached](#mise-en-place-dun-cache-objet-avec-memcached-french) _<sup>(french)</sup>_
 - [Mission Impossible: Symfony components in Drupal 7](#mission-impossible-symfony-components-in-drupal-7)
+- [Orchestrer vos projets Symfony sans fausse notes](#orchestrer-vos-projets-symfony-sans-fausse-notes-french) _<sup>(french)</sup>_
 - [Présentation de JoliNotif et php7-ckecker](#présentation-de-jolinotif-et-php7-ckecker-french) _<sup>(french)</sup>_
 - [Présentation de mon admin bundle](#présentation-de-mon-admin-bundle-french) _<sup>(french)</sup>_
 - [Présentation de swarrot, une lib permettant de créer des workers](#présentation-de-swarrot-une-lib-permettant-de-créer-des-workers-french) _<sup>(french)</sup>_
@@ -28,6 +34,7 @@
 - [Retour d'expérience des bundles utilisés chez M6Web : leurs avantages et leurs inconvénients](#retour-dexpérience-des-bundles-utilisés-chez-m6web--leurs-avantages-et-leurs-inconvénients-french) _<sup>(french)</sup>_
 - [Symfony et Docker](#symfony-et-docker-french) _<sup>(french)</sup>_
 - ["Symfony m'a tueR", passez du monolithe au micro-services](#symfony-ma-tuer-passez-du-monolithe-au-micro-services-french) _<sup>(french)</sup>_
+- [Symfony Serializer](#symfony-serializer-french) _<sup>(french)</sup>_
 - [The evolution of a rabbit](#the-evolution-of-a-rabbit)
 - [Une timeline avec Elasticsearch](#une-timeline-avec-elasticsearch-french) _<sup>(french)</sup>_
 - [Utiliser Symfony dans des environnements Heroku-like](#utiliser-symfony-dans-des-environnements-heroku-like-french)  _<sup>(french)</sup>_
