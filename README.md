@@ -494,3 +494,25 @@ By [Xavier Gorse](https://connect.sensiolabs.com/profile/xgorse)
 ![twitter](icon/twitter.png) [@xgorse](https://twitter.com/xgorse)
 
 ![meetup](icon/location.png) [Paris, France](http://www.meetup.com/afsy-sfpot/events/226790784/) - 19/11/2015 
+
+---
+
+## Postgres dans Symfony
+
+~~Slides~~  
+~~Video~~
+
+By [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)  
+![github](icon/github.png) [@chanmix51](https://github.com/chanmix51)  
+![twitter](icon/twitter.png) [@chanmix51](https://twitter.com/chanmix51)
+
+## Best practices Symfony
+
+~~Slides~~  
+~~Video~~
+
+By [Hugo Hamon](https://connect.sensiolabs.com/profile/hhamon)  
+![github](icon/github.png) [@hhamon](https://github.com/hhamon)  
+![twitter](icon/twitter.png) [@hhamon](https://twitter.com/hhamon)
+
+![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/226672468/) - 9/12/2015 
