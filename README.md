@@ -500,7 +500,7 @@ By [Xavier Gorse](https://connect.sensiolabs.com/profile/xgorse)
 ## Postgres dans Symfony
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/UK3ylIodWr4)
 
 By [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)  
 ![github](icon/github.png) [@chanmix51](https://github.com/chanmix51)  
@@ -509,7 +509,7 @@ By [Grégoire Hubert](https://connect.sensiolabs.com/profile/gregoire)
 ## Best practices Symfony
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/VKZukfC36Ms)
 
 By [Hugo Hamon](https://connect.sensiolabs.com/profile/hhamon)  
 ![github](icon/github.png) [@hhamon](https://github.com/hhamon)  
