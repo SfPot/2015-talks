@@ -516,3 +516,69 @@ By [Hugo Hamon](https://connect.sensiolabs.com/profile/hhamon)
 ![twitter](icon/twitter.png) [@hhamon](https://twitter.com/hhamon)
 
 ![meetup](icon/location.png) [Nantes, France](http://www.meetup.com/afsy-sfpot/events/226672468/) - 9/12/2015 
+
+---
+
+## atoum ProTips
+
+~~Slides~~  
+~~Video~~
+
+By [Julien Bianchi](https://connect.sensiolabs.com/profile/jubianchi)  
+![github](icon/github.png) [@jubianchi](https://github.com/jubianchi)  
+![twitter](icon/twitter.png) [@jubianchi](https://twitter.com/jubianchi)
+
+## Intro à Unity
+
+~~Slides~~  
+~~Video~~
+
+By [Gabriel Pillet](https://connect.sensiolabs.com/profile/tentacode)  
+![github](icon/github.png) [@tentacode](https://github.com/tentacode)  
+![twitter](icon/twitter.png) [@tentacode](https://twitter.com/tentacode)
+
+## Application CLI avec Silly
+
+~~Slides~~  
+~~Video~~
+
+By [Alexandre Balmes](https://connect.sensiolabs.com/profile/pocky)  
+![github](icon/github.png) [@pocky](https://github.com/pocky)  
+![twitter](icon/twitter.png) [@pockystar](https://twitter.com/pockystar)
+
+## PSR de 0 à 12 en 12 minutes
+
+~~Slides~~  
+~~Video~~
+
+By [Matthieu Napoli](https://connect.sensiolabs.com/profile/mnapoli)  
+![github](icon/github.png) [@mnapoli](https://github.com/mnapoli)  
+![twitter](icon/twitter.png) [@matthieunapoli](https://twitter.com/matthieunapoli)
+
+## Git : bisect et rebase interactif
+
+~~Slides~~  
+~~Video~~
+
+By Gaetan Buellet  
+![twitter](icon/twitter.png) [@gaetanbuellet](https://twitter.com/gaetanbuellet)
+
+## Emoji : tout ce que vous devez savoir pour vous faire mousser en famille à Noël
+
+~~Slides~~  
+~~Video~~
+
+By [Thomas Jarrand](https://connect.sensiolabs.com/profile/tom32i)  
+![github](icon/github.png) [@Tom32i](https://github.com/Tom32i)  
+![twitter](icon/twitter.png) [@Tom32i](https://twitter.com/Tom32i)
+
+## Atoum, les atouts du challenger
+
+~~Slides~~  
+~~Video~~
+
+By Nicolas Afresne  
+![github](icon/github.png) [@nafresne](https://github.com/nafresne)  
+![twitter](icon/twitter.png) [@NicolasAfresne](https://twitter.com/NicolasAfresne)
+
+![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/227160088/) - 22/12/2015 
