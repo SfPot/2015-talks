@@ -565,7 +565,7 @@ By Gaetan Buellet
 
 ## Emoji : tout ce que vous devez savoir pour vous faire mousser en famille à Noël
 
-~~Slides~~  
+[Slides](http://tom32i.github.io/talk-emoji/)  
 ~~Video~~
 
 By [Thomas Jarrand](https://connect.sensiolabs.com/profile/tom32i)  
