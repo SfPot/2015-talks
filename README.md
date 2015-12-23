@@ -548,7 +548,7 @@ By [Alexandre Balmes](https://connect.sensiolabs.com/profile/pocky)
 
 ## PSR de 0 à 12 en 12 minutes
 
-~~Slides~~  
+[Slides](http://mnapoli.fr/presentations/psr-0-12/)  
 ~~Video~~
 
 By [Matthieu Napoli](https://connect.sensiolabs.com/profile/mnapoli)  
